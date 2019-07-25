@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">baking App </string>
+    <string name="appwidget_text">Ingredients</string>
+    <string name="add_widget">Add widget</string>
+    <string name="home">Home</string>
+    <string name="widget">Widget</string>
+</resources>
